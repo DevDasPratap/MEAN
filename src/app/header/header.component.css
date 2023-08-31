@@ -1,0 +1,12 @@
+ul{
+    text-decoration: none;
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    color:rgb(118, 115, 115);
+}
+.spacer{
+    flex: 1 1 auto;
+}
